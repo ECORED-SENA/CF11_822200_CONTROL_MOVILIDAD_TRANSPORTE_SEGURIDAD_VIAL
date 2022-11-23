@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Investigación y reconstrucción del accidente de tránsito',
+    descripcionCurso:
+      'Este componente formativo contiene los conocimientos necesarios para la caracterización del accidente de tránsito cumpliendo los parámetros de policía judicial, a través del desarrollo del análisis de laboratorio y sustentación del informe pericial de accidente.',
+    // imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
