@@ -331,32 +331,32 @@
               i.fas.fa-check
               | La búsqueda de información de las personas se puede realizar en el RUNT verificando su historial y autorización vigente para conducir vehículos en Colombia, además de otras bases de datos a las que el investigador tenga acceso.
     p.mb-5(data-aos='fade-right') Ahora bien, el análisis del croquis o bosquejo topográfico requiere la utilización de herramientas digitales o software específicos para la reconstrucción de accidentes de tránsito que permitan pasar a escala el bosquejo y convertirlo en un plano topográfico que pueda ser utilizado para encontrar las escenas del accidente de tránsito (preliminar, reacciones múltiples, materialización del hecho y escena de posiciones finales).  A continuación, se presentan algunos de los programas consultados con mayor frecuencia para el desarrollo del análisis topográfico: 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-contenido.p-4
+    SlyderF.slyder-100.mb-5(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/33.png' alt='AvatarTop')
         p.text-center Software MVD.  Sistema Simulador Universal de Accidentes de Tránsito SSUAT 
         a.text-center(href="https://ssuat.com/" target='_blank') https://ssuat.com/
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/34.png' alt='AvatarTop')
         p.text-center Software AutoCAD 2D y 3D 
         a.text-center(href="https://latinoamerica.autodesk.com/" target='_blank') https://latinoamerica.autodesk.com/
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/35.png' alt='AvatarTop')
         p.text-center Software Trimble Forensics Reveal
         a.text-center(href="https://forensics.trimble.com/" target='_blank') https://forensics.trimble.com/
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/36.png' alt='AvatarTop')
         p.text-center FARO® Zone 3D 
         a.text-center(href="https://www.faro.com/" target='_blank') https://www.faro.com/
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/37.png' alt='AvatarTop')
@@ -377,7 +377,7 @@
             br
             br
             |Herramienta utilizada para realizar cálculos físico matemáticos relacionados con accidentes de tránsito.
-    .tarjeta.p-5(style="background-color: #FFF6E9")
+    .tarjeta.p-5(style="background-color: #FFF6E9").mb-5
       p.mb-0 Hasta aquí, se han revisado algunas herramientas para mejorar el trabajo para la realización y sustentación del informe pericial de accidentes de tránsito, pero, además de las herramientas, es necesario considerar las técnicas necesarias para la reconstrucción de los hechos, dentro de la que se encuentra el análisis forense al registro fotográfico y topográfico de las distintas huellas encontradas en la vía (frenado, arrastre derrape o trayectoria) que el perito puede utilizar para soportar trayectorias antes y después de la colisión de los vehículos comparando sus hallazgos respecto de la señalización horizontal y vertical del sector encontrando así las escenas del accidente que le permitirá reconstruir los hechos.
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 4.
@@ -391,6 +391,41 @@
       h5 Tabla 1. 
       span Valores de referencia para el coeficiente de fricción. 
     //TODO! Pendiente tabla 
+    .tabla-a.color-secundario.mb-5
+      table
+        caption Leyenda de la tabla
+        thead(style="background-color: #fff5c5")
+          tr.text-center
+            th Superficie
+            th Liviano
+            th Mediano
+            th Pesado
+        tbody
+          tr
+            td Asfalto
+            td 0.68 - 0.88
+            td 0.59 - 0.86
+            td 0.55 - 0.81
+          tr
+            td Concreto
+            td 0.52 - 0.66
+            td 0.62 - 0.75
+            td 0.56 - 0.70
+          tr
+            td Adoquín 
+            td 0.58 - 0.60
+            td 0.67 - 0.75
+            td 0.64 - 0.70
+          tr
+            td Tierra
+            td 0.50 - 0.58
+            td 0.58 - 0.75
+            td 0.43 - 0.75
+          tr
+            td Césped
+            td 0.36 - 0.42
+            td 0.43 - 0.75
+            td 0.42 - 0.61
 
     .tarjeta(style="background-color: #FFF6E9").p-4
       .row.justify-content-center.mb-5
