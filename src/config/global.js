@@ -259,7 +259,7 @@ export default {
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Asesora Metodológica',
+        cargo: 'Asesora metodológica',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {

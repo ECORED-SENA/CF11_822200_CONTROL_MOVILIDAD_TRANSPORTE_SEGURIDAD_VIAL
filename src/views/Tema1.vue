@@ -34,7 +34,7 @@
           |El enfoque de la metodología de la investigación de accidentes de tránsito es cuantitativo, por cuanto sus resultados se enmarcan en un proceso secuencial, deductivo y probatorio, que analiza la realidad objetiva (Hernández et al, 2014).  Observe en la siguiente figura las principales características del enfoque cuantitativo: 
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 1. 
-      span Principios de la criminalística. 
+      span Enfoque cuantitativo de la investigación. 
     .row.justify-content-center.mb-5
       .col-lg-8: img(src='@/assets/curso/temas/tema1/3.svg', alt='')
     .titulo-senal.d-inline-block.p-2.mb-5
@@ -92,7 +92,7 @@
           p.mb-0 Siguiendo este esquema metodológico, el investigador puede desarrollar su indagación, sustentado en la formalidad científica, además de contemplar la posibilidad de evaluar en cualquier parte del proceso, las actividades desarrolladas, con el fin de poder objetar sus resultados y examinar nuevos procesos para esclarecer a plenitud las causas que conllevaron a la materialización del hecho. 
         .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/4.svg', alt='' style="width: 85px").m-auto
     p.mb-5(data-aos='fade-right') #[b Veamos a continuación el detalle de las actividades asociadas a cada una de las etapas, empezando por la etapa inicial: ]
-    .tarjeta.bg-slyder.p-5
+    .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
         .row
           .col-md-4.mb-4.mb-md-0
@@ -121,7 +121,8 @@
             figure
               img(src='@/assets/curso/temas/tema1/14.png', alt='Texto que describa la imagen')
     .tarjeta.p-5(style="background-color: #FFF6E9").mb-5
-      p.mb-0 Actos urgentes.  De acuerdo a la Ley 906 de 2004, son considerados actos  urgentes:  la   inspección al  lugar de  los  hechos, inspección a cadáver, entrevistas,  identificar, recoger y  embalar técnicamente los elementos materiales probatorios (EMP) y  evidencia física (EF) documentándolos a través de la fijación fotográfica, topográfica y documental  del lugar de los hechos, una vez que los servidores públicos en ejercicio de sus funciones de policía judicial reciban la información de la ocurrencia de un delito. 
+      p.mb-0 #[b Actos urgentes.]  De acuerdo a la Ley 906 de 2004, son considerados actos  urgentes:  la   inspección al  lugar de  los  hechos, inspección a cadáver, entrevistas,  identificar, recoger y  embalar técnicamente los elementos materiales probatorios (EMP) y  evidencia física (EF) documentándolos a través de la fijación fotográfica, topográfica y documental  del lugar de los hechos, una vez que los servidores públicos en ejercicio de sus funciones de policía judicial reciban la información de la ocurrencia de un delito. 
+    p.mb-5(data-aos='fade-right') La siguiente etapa, la etapa de análisis, es la columna vertebral de la investigación, en donde cada uno de los elementos materiales de prueba, las evidencias físicas, las pruebas documentales, testimoniales y demás información recolectada, pasan a un proceso de escrutinio, evaluación y correlación con los hechos.  Para el desarrollo adecuado de esta etapa, se precisa analizar las evidencias ordenadamente de acuerdo con los factores que intervienen, como se describe a continuación: 
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
         .row
@@ -142,7 +143,7 @@
         .row
           .col-md-4.mb-4.mb-md-0
             h5 Evidencias relacionadas con el factor vehículo
-            p Características físicas, de fábrica, adaptaciones, ficha técnica, estado mecánico, documentación formal, historial de mantenimiento, modificaciones registradas en el registro único de tránsito(RUT), accidentes donde se haya involucrado y modalidades del servicio. También se debe solicitar la inspección técnica que se ha practicado después del accidente, donde se verifica la inspección y evaluación de daños, valoración de los mismos y la inspección mecánica.
+            p Características físicas, de fábrica, adaptaciones, ficha técnica, estado mecánico, documentación formal, historial de mantenimiento, modificaciones registradas en el registro único de tránsito (RUT), accidentes donde se haya involucrado y modalidades del servicio. También se debe solicitar la inspección técnica que se ha practicado después del accidente, donde se verifica la inspección y evaluación de daños, valoración de los mismos y la inspección mecánica.
 
           .col-md-8
             figure
@@ -198,7 +199,7 @@
                     br
                     | Por la cual se adopta el nuevo informe Policial de Accidentes de Transito (IPAT), su manual de diligenciamiento y se dictan otras disposiciones. urgencias  
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/resolucion.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     p.mb-5(data-aos='fade-right') Avancemos ahora con la etapa de medición, donde se establecen las variables y se ejecutan los modelos físicos y las ciencias aplicadas, para descartar o reforzar las hipótesis: 
@@ -234,19 +235,19 @@
               img(src='@/assets/curso/temas/tema1/23.png', alt='Texto que describa la imagen')
         .row
           .col-md-5.mb-4.mb-md-0
+            h5 Medición de variables 
+            p Interpretación de modelos físicos y matemáticos para medir los fenómenos presentados.  Los datos que se miden deben concordar con las variables establecidas en la formulación de la investigación, que se estimaron en la descripción de variables.  Los investigadores deben sustentar las técnicas, teorías y postulados aplicados a las variables sometidas a medición e indicar los procedimientos y modelos aplicables, con su estimación bibliográfica.
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema1/25.png', alt='Texto que describa la imagen')
+        .row
+          .col-md-5.mb-4.mb-md-0
             h5 Contraste de hipótesis    
             p Consecuente con la medición de las variables, la exposición de datos fiables y análisis practicados a los elementos materiales probatorios (EMP) y evidencia física (EF), se entrar a controvertir las hipótesis depurando las que guiarán la teoría del caso.
 
           .col-md-7
             figure
               img(src='@/assets/curso/temas/tema1/24.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-5.mb-4.mb-md-0
-            h5 Medición de variables 
-            p Interpretación de modelos físicos y matemáticos para medir los fenómenos presentados.  Los datos que se miden deben concordar con las variables establecidas en la formulación de la investigación, que se estimaron en la descripción de variables.  Los investigadores deben sustentar las técnicas, teorías y postulados aplicados a las variables sometidas a medición e indicar los procedimientos y modelos aplicables, con su estimación bibliográfica.
-          .col-md-7
-            figure
-              img(src='@/assets/curso/temas/tema1/25.png', alt='Texto que describa la imagen')
     p.mb-5(data-aos='fade-right') Y finalmente, la etapa de conclusión y propuestas, de relevancia para la presentación de la teoría que concluye el caso: 
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
@@ -300,7 +301,7 @@
         p El escáner topográfico es un dispositivo con la capacidad de adquirir datos masivos en un lugar determinado desde un punto fijo, generando una nube de puntos de manera tridimensional, a partir de la medición de distancias y ángulos, mediante un rayo de luz.
           br
           br
-          |El escáner topográfico tiene la capacidad de realizar observaciones masivas sobre áreas preseleccionadas, y cuenta con cámaras fotográficas para el registro de información dentro de su rango de visibilidad, lo que se traduce en una información basta del objeto, que lleva a un software específico donde se representa mediante un modelo tridimensional.  
+          |El escáner topográfico tiene la capacidad de realizar observaciones masivas sobre áreas preseleccionadas, y cuenta con cámaras fotográficas para el registro de información dentro de su rango de visibilidad, lo que se traduce en una información basta del objeto, que lleva a un #[em software] específico donde se representa mediante un modelo tridimensional.  
       .col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/31.png', alt='')
     .titulo-senal.d-inline-block.p-2.mb-5
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
@@ -310,6 +311,7 @@
       .col-lg-7
         .tarjeta.p-4(style="background-color: #FFF6E9 ")
           p.mb-0 La estación total es un instrumento electro-óptico utilizado en topografía, cuyo funcionamiento apoyado en tecnología electrónica, consiste en la incorporación de un distanciómetro y un microprocesador a un teodolito electrónico, para obtener ángulos verticales y, en el mayor de los casos, horizontales. 
+            br
             br
             |Algunas de las características que incorpora, y con las cuales no cuentan los teodolitos, son una pantalla alfanumérica de cristal líquido (LCD), leds de avisos, iluminación independiente de la luz solar, calculadora, distanciómetro, trackeador (seguidor de trayectoria) y la posibilidad de guardar información en formato electrónico, lo cual permite utilizarla posteriormente en ordenadores personales.  También vienen provistos de diversos programas sencillos que permiten, entre otras capacidades, el cálculo de coordenadas en campo, replanteo de puntos de manera sencilla y eficaz y cálculo de acimutes y distancias. (Emilio, 2009)
     p.mb-5(data-aos='fade-right') Para la realización del informe pericial de accidente de tránsito, se recomienda el uso de herramientas tecnológicas y digitales que faciliten la realización del dictamen y su respectiva ilustración.  A continuación, se destacan algunas de ellas: 
@@ -330,25 +332,25 @@
             li
               i.fas.fa-check
               | La búsqueda de información de las personas se puede realizar en el RUNT verificando su historial y autorización vigente para conducir vehículos en Colombia, además de otras bases de datos a las que el investigador tenga acceso.
-    p.mb-5(data-aos='fade-right') Ahora bien, el análisis del croquis o bosquejo topográfico requiere la utilización de herramientas digitales o software específicos para la reconstrucción de accidentes de tránsito que permitan pasar a escala el bosquejo y convertirlo en un plano topográfico que pueda ser utilizado para encontrar las escenas del accidente de tránsito (preliminar, reacciones múltiples, materialización del hecho y escena de posiciones finales).  A continuación, se presentan algunos de los programas consultados con mayor frecuencia para el desarrollo del análisis topográfico: 
+    p.mb-5(data-aos='fade-right') Ahora bien, el análisis del croquis o bosquejo topográfico requiere la utilización de herramientas digitales o #[em software] específicos para la reconstrucción de accidentes de tránsito que permitan pasar a escala el bosquejo y convertirlo en un plano topográfico que pueda ser utilizado para encontrar las escenas del accidente de tránsito (preliminar, reacciones múltiples, materialización del hecho y escena de posiciones finales).  A continuación, se presentan algunos de los programas consultados con mayor frecuencia para el desarrollo del análisis topográfico: 
     SlyderF.slyder-100.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/33.png' alt='AvatarTop')
-        p.text-center Software MVD.  Sistema Simulador Universal de Accidentes de Tránsito SSUAT 
+        p.text-center #[em Software] MVD.  Sistema Simulador Universal de Accidentes de Tránsito SSUAT 
         a.text-center(href="https://ssuat.com/" target='_blank') https://ssuat.com/
       .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/34.png' alt='AvatarTop')
-        p.text-center Software AutoCAD 2D y 3D 
+        p.text-center #[em Software] AutoCAD 2D y 3D 
         a.text-center(href="https://latinoamerica.autodesk.com/" target='_blank') https://latinoamerica.autodesk.com/
       .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/35.png' alt='AvatarTop')
-        p.text-center Software Trimble Forensics Reveal
+        p.text-center #[em Software] Trimble Forensics Reveal
         a.text-center(href="https://forensics.trimble.com/" target='_blank') https://forensics.trimble.com/
       .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
@@ -360,7 +362,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/37.png' alt='AvatarTop')
-        p.text-center Software ARAS 360 para la Reconstrucción Virtual de Accidentes de Tránsito y Escena de Crimen 
+        p.text-center #[em Software] ARAS 360 para la Reconstrucción Virtual de Accidentes de Tránsito y Escena de Crimen 
         a.text-center(href="https://software.com.co/" target='_blank') https://docplayer.es/
     p.mb-5(data-aos='fade-right') En cuanto al análisis de variables físicas aplicadas al hecho, componente importante del informe pericial, existen también herramientas tecnológicas que apoyan al investigador de accidentes de tránsito en dicha tarea, veamos algunas de ellas: 
     .row.justify-content-center.mb-5
@@ -368,7 +370,8 @@
         div(style="background-color: #F3F9FF").p-4.h-100
           h4.text-center GeoGebra 
           img(src='@/assets/curso/temas/tema1/38.jpg', alt='').mb-3
-          p Software de matemáticas dinámicas, presentado como una calculadora gráfica en línea, que a partir del plano cartesiano permite la realización de planos de manera gratuita e interactiva.  GeoGebra: grafica funciones, representa datos, arrastra deslizadores.
+          p #[em Software] de matemáticas dinámicas, presentado como una calculadora gráfica en línea, que a partir del plano cartesiano permite la realización de planos de manera gratuita e interactiva.  GeoGebra: grafica funciones, representa datos, arrastra deslizadores.
+          a(href="https://www.geogebra.org/graphing?lang=es ", target="_blank", rel="noopener noreferrer") https://www.geogebra.org/graphing?lang=es  
       .col-lg-4
         div(style="background-color: #FFF5C5").p-4.h-100
           h4.text-center RACTT
@@ -377,8 +380,12 @@
             br
             br
             |Herramienta utilizada para realizar cálculos físico matemáticos relacionados con accidentes de tránsito.
+          a(href="https://ractt.com/  ", target="_blank", rel="noopener noreferrer") https://ractt.com/  
     .tarjeta.p-5(style="background-color: #FFF6E9").mb-5
       p.mb-0 Hasta aquí, se han revisado algunas herramientas para mejorar el trabajo para la realización y sustentación del informe pericial de accidentes de tránsito, pero, además de las herramientas, es necesario considerar las técnicas necesarias para la reconstrucción de los hechos, dentro de la que se encuentra el análisis forense al registro fotográfico y topográfico de las distintas huellas encontradas en la vía (frenado, arrastre derrape o trayectoria) que el perito puede utilizar para soportar trayectorias antes y después de la colisión de los vehículos comparando sus hallazgos respecto de la señalización horizontal y vertical del sector encontrando así las escenas del accidente que le permitirá reconstruir los hechos.
+        br
+        br
+        | Por ejemplo, una huella de frenado correctamente fijada topográfica y fotográficamente, permitirá determinar la trayectoria y velocidad del automotor previa al accidente utilizando la ecuación de física forense para calcular la velocidad de deceleración hasta la detención (ver figura a continuación)
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 4.
       span Registro huella de frenado. 

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Sustentación del Informe Pericial
+      h1 Sustentación del informe pericial
     p.mb-5(data-aos='fade-right') En un proceso de investigación de accidente de tránsito con personas lesionadas o fallecidas, es de vital importancia reconocer que el sistema penal oral acusatorio SPOA, requiere que los funcionarios de la policía judicial rindan sus declaraciones y sustentaciones de las actuaciones realizadas en las diferentes audiencias preliminares o de juicio oral, dependiendo de la necesidad del fiscal de cada caso, quien notificará previamente de su asistencia a ratificación y preparará al testigo para dicho evento de sustentación con el fin de dar respaldo probatorio a motivos fundados.
       br
       br
@@ -31,6 +31,7 @@
       .col-lg-3.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/3.png', alt='')
       .col-lg-9(data-aos="fade-left")
         p.mb-0 También es importante conocer la estructura del proceso penal y las actuaciones de quienes participan: el fiscal, la defensa, el ministerio público, el representante de las víctimas y el juez, quien tiene la decisión al final del proceso.
+          br
           br
           |Ser claro en los tecnicismos jurídicos es de vital importancia para el perito, ya que una palabra mal relacionada puede significar una cosa diferente a lo que se quiere decir, poniendo en entredicho su idoneidad en el tema, por lo que resulta necesario ser preciso en su voluntad comunicativa o expresar correctamente lo que se quiere decir atendiendo a técnicas de oralidad.
     p.mb-5(data-aos='fade-right') De acuerdo con Pérez (2018), la técnica de la oralidad está integrada por elementos metodológicos que determinan su estructura interna, como se ilustra en la siguiente figura: 
