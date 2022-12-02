@@ -23,8 +23,8 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.1  Metodología para la investigación pericial de accidentes
     .row.justify-content-center.mb-5
-      .col-lg-3.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/2.png', alt='')
-      .col-lg-9(data-aos="fade-left")
+      .col-lg-4.col-6(data-aos="fade-right").mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema1/2.png', alt='')
+      .col-lg-8(data-aos="fade-left")
         p La investigación de accidentes de tránsito, concuerda con un proceso sistemático, ajustado a la lógica y con estricta coherencia, apoyado en la ciencia y la técnica, con el fin de presentar conocimientos objetivos tendientes a esclarecer hechos, fenómenos e indirectamente responsabilidades que se derivan de los siniestros. 
           br
           br
@@ -36,48 +36,48 @@
       h5 Figura 1. 
       span Enfoque cuantitativo de la investigación. 
     .row.justify-content-center.mb-5
-      .col-lg-8: img(src='@/assets/curso/temas/tema1/3.svg', alt='')
+      .col-lg-6: img(src='@/assets/curso/temas/tema1/3.svg', alt='')
     .titulo-senal.d-inline-block.p-2.mb-5
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
-      h5.text-white.mb-0  Proceso investigativo
+      h3.ms-4.text-white.mb-0  Proceso investigativo
     .cajon-b.color-acento-contenido.p-3.mb-5
-      .row.justify-content-center.mb-5
-        .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/4.svg', alt='' style="width: 85px").m-auto
+      .row.justify-content-center
+        .col-lg-2.col-6.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/4.svg', alt='' style='width: 85px').m-auto
         .col-lg-10(data-aos="fade-left")
           p.mb-0 Es importante señalar que toda investigación parte de un problema, a partir del cual nace la pregunta de investigación, que debe ser resuelta a través de procedimientos de indagación, reuniendo la mayor cantidad de información posible que debe ser analizada e interpretada para luego emitir resultados de esos análisis.  Aplicado a la investigación de accidentes de tránsito, el proceso implicaría los siguientes pasos: 
     .row.justify-content-center.mb-5
       .col-lg-8
-        PasosA.color-acento-contenido.mb-5(tipo="n")
-          .row(titulo="").justify-content-center
+        PasosA.color-acento-contenido.mb-5(tipo="n").align-items-center
+          .row(titulo="").justify-content-center.align-items-center-items-center
             .col-md-6.mb-4.mb-md-0
-              h4.fw-normal Identificar - definir un problema
+              h4.mb-0 Identificar - definir un problema
               p Accidente de tránsito.
-            .col-md-2.col-5: img(src='@/assets/curso/temas/tema1/5.svg', alt='')
-          .row(titulo="").justify-content-center
-            .col-md-2.col-5: img(src='@/assets/curso/temas/tema1/6.svg', alt='')
+            .col-lg-2.col-5: img(src='@/assets/curso/temas/tema1/5.svg', alt='')
+          .row(titulo="").justify-content-center.align-items-center
+            .col-lg-2.col-5: img(src='@/assets/curso/temas/tema1/6.svg', alt='')
             .col-md-6.mb-4.mb-md-0
-              h4.fw-normal Plantearse una pregunta
-              p ¿Cuáles fueron las causas?
-          .row(titulo="").justify-content-center
+              h4.mb-0 Plantearse una pregunta
+              p.mb-0 ¿Cuáles fueron las causas?
+          .row(titulo="").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h4.fw-normal Pensar en la manera de responder
-              p Programa metodológico.
-            .col-md-2.col-5: img(src='@/assets/curso/temas/tema1/7.svg', alt='')
-          .row(titulo="").justify-content-center
-            .col-md-2.col-5: img(src='@/assets/curso/temas/tema1/8.svg', alt='')
+              h4.mb-0 Pensar en la manera de responder
+              p.mb-0 Programa metodológico.
+            .col-lg-2.col-5: img(src='@/assets/curso/temas/tema1/7.svg', alt='')
+          .row(tilulo="").justify-content-center.align-items-center
+            .col-lg-2.col-5: img(src='@/assets/curso/temas/tema1/8.svg', alt='')
             .col-md-6.mb-4.mb-md-0
-              h4.fw-normal Reunir información necesaria para ello
-              p Búsqueda de elementos materiales probatorios (EMP) y evidencia física (EF).
-          .row(titulo="").justify-content-center
+              h4.mb-0 Reunir información necesaria para ello
+              p.mb-0 Búsqueda de elementos materiales probatorios (EMP) y evidencia física (EF).
+          .row(titulo="").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h4.fw-normal Analizarla e interpretarla
-              p Aplicación de modelos físicos, interpretación de los fundamentos  normativos.
-            .col-md-2.col-5: img(src='@/assets/curso/temas/tema1/9.svg', alt='')
-          .row(titulo="").justify-content-center
-            .col-md-2.col-5: img(src='@/assets/curso/temas/tema1/10.svg', alt='')
+              h4.mb-0 Analizarla e interpretarla
+              p.mb-0 Aplicación de modelos físicos, interpretación de los fundamentos  normativos.
+            .col-lg-2.col-5: img(src='@/assets/curso/temas/tema1/9.svg', alt='')
+          .row(tilulo="").justify-content-center.align-items-center
+            .col-lg-2.col-5: img(src='@/assets/curso/temas/tema1/10.svg', alt='')
             .col-md-6.mb-4.mb-md-0
-              h4.fw-normal Emitir un resultado
-              p Factor que determina la ocurrencia del hecho.
+              h4.mb-0 Emitir un resultado
+              p.mb-0 Factor que determina la ocurrencia del hecho.
     p.mb-5(data-aos='fade-right') Partiendo de la descripción general del proceso, se puede establecer una secuencia lógica a considerar en la investigación de accidentes de tránsito dentro de un marco metodológico lineal, que adopta las etapas y aspectos destacados en la siguiente figura: 
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 2.
@@ -86,24 +86,24 @@
       .col-lg-10(data-aos="zoom-in") 
         img(src='@/assets/curso/temas/tema1/11.svg', alt='').mb-2
         figcaption Nota. Adaptada de Ramos, H. F. y Quiroga, L. A. (2017).
-    .cajon-b.color-primario.arriba-derecha.p-3.mb-5
+    .cajon-b.color-acento-contenido.arriba-derecha.p-3.mb-5
       .row.justify-content-center
-        .col-lg-10(data-aos="fade-left")
+        .col-lg-10(data-aos="fade-left").mb-lg-0.mb-3
           p.mb-0 Siguiendo este esquema metodológico, el investigador puede desarrollar su indagación, sustentado en la formalidad científica, además de contemplar la posibilidad de evaluar en cualquier parte del proceso, las actividades desarrolladas, con el fin de poder objetar sus resultados y examinar nuevos procesos para esclarecer a plenitud las causas que conllevaron a la materialización del hecho. 
-        .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/4.svg', alt='' style="width: 85px").m-auto
+        .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/cc1.svg', alt='' style="width: 85px").m-auto
     p.mb-5(data-aos='fade-right') #[b Veamos a continuación el detalle de las actividades asociadas a cada una de las etapas, empezando por la etapa inicial: ]
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
-        .row
-          .col-md-4.mb-4.mb-md-0
-            h5 Planteamiento de la investigación 
+        .row.justify-content-center
+          .col-lg-4.mb-4.mb-md-0
+            h4 Planteamiento de la investigación 
             p Se establecen los procedimientos a desarrollar en el tratamiento al lugar de los hechos, asignación de funciones y tareas del proceso investigativo para obtener información precisa y confiable.  También se tienen en cuenta los procesos de control de las actividades de criminalística de campo y de investigación criminal, la proyección de capacidades y recursos, se alista la documentación necesaria y se dan instrucciones. 
           .col-md-8
             figure
               img(src='@/assets/curso/temas/tema1/12.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-4.mb-4.mb-md-0
-            h5 Formulación de la investigación 
+        .row.justify-content-center
+          .col-lg-4.mb-4.mb-md-0
+            h4 Formulación de la investigación 
             p Planteamiento de preguntas que deban resolverse en el análisis de la información obtenida de los elementos materiales de prueba o las evidencias físicas. Los interrogantes deben formularse libres de ambigüedades y apuntar al esclarecimiento de los hechos.   
               br
               br
@@ -111,9 +111,9 @@
           .col-md-8
             figure
               img(src='@/assets/curso/temas/tema1/13.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-4.mb-4.mb-md-0
-            h5 Recolección de la información
+        .row.justify-content-center
+          .col-lg-4.mb-4.mb-md-0
+            h4 Recolección de la información
             p Comprende diligencias dentro y fuera del lugar de los hechos: recolección de evidencias físicas, exámenes especializados para los elementos materiales probatorios (EMP) y búsqueda de información en bases de datos o fuentes externas.  
               br
               |Entre mayor sean los datos obtenidos, recolectados y tratados, más fiable será la investigación y se contará con más alternativas para enfocar los análisis (inspección al lugar de los hechos, labores de vecindario, entrevistas a los testigos, verificación de pruebas documentales, entre otros). 
@@ -125,9 +125,9 @@
     p.mb-5(data-aos='fade-right') La siguiente etapa, la etapa de análisis, es la columna vertebral de la investigación, en donde cada uno de los elementos materiales de prueba, las evidencias físicas, las pruebas documentales, testimoniales y demás información recolectada, pasan a un proceso de escrutinio, evaluación y correlación con los hechos.  Para el desarrollo adecuado de esta etapa, se precisa analizar las evidencias ordenadamente de acuerdo con los factores que intervienen, como se describe a continuación: 
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
-        .row
-          .col-md-4.mb-4.mb-md-0
-            h5 Evidencias relacionadas con el factor humano 
+        .row.justify-content-center
+          .col-lg-4.mb-4.mb-md-0
+            h4 Evidencias relacionadas con el factor humano 
             p Develar información a través de fuentes directas (entrevistas, interrogatorios, versiones no formales de espectadores y víctimas) y bases de datos sobre historial de conductores (RUT, comparendos, otros accidentes de tránsito, capacitaciones de conducción y seguridad vial). 
             ul.lista-ul--color
               li
@@ -140,38 +140,38 @@
           .col-md-8
             figure
               img(src='@/assets/curso/temas/tema1/15.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-4.mb-4.mb-md-0
-            h5 Evidencias relacionadas con el factor vehículo
+        .row.justify-content-center
+          .col-lg-4.mb-4.mb-md-0
+            h4 Evidencias relacionadas con el factor vehículo
             p Características físicas, de fábrica, adaptaciones, ficha técnica, estado mecánico, documentación formal, historial de mantenimiento, modificaciones registradas en el registro único de tránsito (RUT), accidentes donde se haya involucrado y modalidades del servicio. También se debe solicitar la inspección técnica que se ha practicado después del accidente, donde se verifica la inspección y evaluación de daños, valoración de los mismos y la inspección mecánica.
 
           .col-md-8
             figure
               img(src='@/assets/curso/temas/tema1/16.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-4.mb-4.mb-md-0
-            h5 Evidencias relacionadas con el factor vía
+        .row.justify-content-center
+          .col-lg-4.mb-4.mb-md-0
+            h4 Evidencias relacionadas con el factor vía
             p Destacar las características del accidente desde su escena temporo-espacial preliminar hasta la escena de posiciones finales de las evidencias para destacar tipología geométrica, posibles averías, velocidad de diseño, seguridad activa y pasiva, señalización horizontal y vertical, dispositivos para el control y operación del tránsito, material de construcción y consulta en bases de datos sobre adecuaciones, modificaciones y/o mantenimiento realizado y proyectado. 
           .col-md-8
             figure
               img(src='@/assets/curso/temas/tema1/17.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-4.mb-4.mb-md-0
-            h5 Evidencias relacionadas con el factor condiciones de modo tiempo y lugar
+        .row.justify-content-center
+          .col-lg-4.mb-4.mb-md-0
+            h4 Evidencias relacionadas con el factor condiciones de modo tiempo y lugar
             p Circunstancias del lugar en el momento de ocurrencia del accidente como las condiciones meteorológicas (clima, viento, lluvia).  Importante considerar que, de acuerdo a la posición de los afectados, estas condiciones intervendrán de manera distinta: el destello del sol en un horario específico aplica de acuerdo a la dirección y sentido del participante, así como el viento afecta o no a los vehículos dependiendo de su posición, dirección y sentido.
           .col-md-8
             figure
               img(src='@/assets/curso/temas/tema1/18.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-4.mb-4.mb-md-0
-            h5 Apreciación situacional del lugar y zonas de incidencia en este
+        .row.justify-content-center
+          .col-lg-4.mb-4.mb-md-0
+            h4 Apreciación situacional del lugar y zonas de incidencia en este
             p De gran ayuda para plantear hipótesis ya que teniendo en cuenta la referencia a datos estadísticos de otros accidentes en el mismo lugar y sus causantes se pueden conjeturar o descartar relaciones con el caso investigado, así como considerar la existencia de patrones de accidentalidad, dato relevante para presentar una prospectiva del accidente.
           .col-md-8
             figure
               img(src='@/assets/curso/temas/tema1/19.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-4.mb-4.mb-md-0
-            h5 Presentación de hipótesis 
+        .row.justify-content-center
+          .col-lg-4.mb-4.mb-md-0
+            h4 Presentación de hipótesis 
             p Las hipótesis planteadas por los investigadores deben ser todas aquellas que por coherencia se ajustan a una explicación lógica de cómo ocurrió el siniestro.
           .col-md-8
             figure
@@ -186,12 +186,12 @@
       .col-lg-10
         .tarjeta.color-primario.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/22.svg")
+            .col-4.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/tema1/22.svg" style="width: 90px").m-auto
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small Para ampliar información, consulte el Manual de diligenciamiento del informe policial de accidente de tránsito:
+                  p Para ampliar información, consulte el Manual de diligenciamiento del informe policial de accidente de tránsito:
                     br
                     br
                     | #[b [Min Transporte] Resolución 11268 de 2012]
@@ -199,15 +199,15 @@
                     br
                     | Por la cual se adopta el nuevo informe Policial de Accidentes de Transito (IPAT), su manual de diligenciamiento y se dictan otras disposiciones. urgencias  
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/resolucion.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/resolucion.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     p.mb-5(data-aos='fade-right') Avancemos ahora con la etapa de medición, donde se establecen las variables y se ejecutan los modelos físicos y las ciencias aplicadas, para descartar o reforzar las hipótesis: 
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
-        .row
-          .col-md-5.mb-4.mb-md-0
-            h5 Descripción de variables
+        .row.px-4.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
+            h4 Descripción de variables
             p En coherencia con los objetivos definidos en la formulación de la investigación, ya que las variables pueden ser múltiples y sin objetivos claros, se puede incurrir en errores investigativos como razonamientos sobre eventos insignificantes.  
               br
               br
@@ -230,53 +230,53 @@
               li
                 i.fas.fa-check
                 | Tiempos de reacción. 
-          .col-md-7
+          .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/23.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-5.mb-4.mb-md-0
-            h5 Medición de variables 
+        .row.px-4.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
+            h4 Medición de variables 
             p Interpretación de modelos físicos y matemáticos para medir los fenómenos presentados.  Los datos que se miden deben concordar con las variables establecidas en la formulación de la investigación, que se estimaron en la descripción de variables.  Los investigadores deben sustentar las técnicas, teorías y postulados aplicados a las variables sometidas a medición e indicar los procedimientos y modelos aplicables, con su estimación bibliográfica.
-          .col-md-7
-            figure
-              img(src='@/assets/curso/temas/tema1/25.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-5.mb-4.mb-md-0
-            h5 Contraste de hipótesis    
-            p Consecuente con la medición de las variables, la exposición de datos fiables y análisis practicados a los elementos materiales probatorios (EMP) y evidencia física (EF), se entrar a controvertir las hipótesis depurando las que guiarán la teoría del caso.
-
-          .col-md-7
+          .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/24.png', alt='Texto que describa la imagen')
+        .row.px-4.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
+            h4 Contraste de hipótesis    
+            p Consecuente con la medición de las variables, la exposición de datos fiables y análisis practicados a los elementos materiales probatorios (EMP) y evidencia física (EF), se entrar a controvertir las hipótesis depurando las que guiarán la teoría del caso.
+
+          .col-lg-7.col-9
+            figure
+              img(src='@/assets/curso/temas/tema1/25.png', alt='Texto que describa la imagen')
     p.mb-5(data-aos='fade-right') Y finalmente, la etapa de conclusión y propuestas, de relevancia para la presentación de la teoría que concluye el caso: 
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
-        .row
-          .col-md-5.mb-4.mb-md-0
-            h5 Dinámica del accidente
+        .row.px-4.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
+            h4 Dinámica del accidente
             p Descripción de los hechos que puede acompañarse de la retrospectiva del accidente de tránsito. 
-          .col-md-7
+          .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/26.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-5.mb-4.mb-md-0
-            h5 Retrospectiva del accidente
+        .row.px-4.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
+            h4 Retrospectiva del accidente
             p A partir de las evidencias, encontrar las escenas previas al accidente de tránsito desde la posición final con la materialización del hecho, evidenciando la forma de impacto y el lugar de la colisión, retrocediendo a la escena de reacciones múltiples y seguidamente hasta la escena preliminar donde se establecerán los puntos de percepción del accidente.
-          .col-md-7
+          .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/27.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-5.mb-4.mb-md-0
-            h5 Construcción de la teoría del caso
+        .row.px-4.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
+            h4 Construcción de la teoría del caso
             p El método científico exige plantearse una teoría del accidente de tránsito con base en el análisis robusto y detallado de todo el caso donde las hipótesis fueron confirmadas enunciando el factor contribuyente y determinante del hecho, siendo la teoría del caso la que reúne todas las conclusiones que el perito ha desarrollado durante el proceso investigativo.
-          .col-md-7
+          .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/28.png', alt='Texto que describa la imagen')
-        .row
-          .col-md-5.mb-4.mb-md-0
-            h5 Prospectiva del accidente
+        .row.px-4.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
+            h4 Prospectiva del accidente
             p Cada investigación genera un nuevo conocimiento y todo conocimiento debe ser aprovechado para solucionar problemas por lo cual esta etapa es en la que el investigador propone una solución para que estos hechos no vuelvan a presentarse.
-          .col-md-7
+          .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/29.png', alt='Texto que describa la imagen')
     p.mb-5(data-aos='fade-right') Refuerce su apropiación de la metodología para la investigación de accidentes de tránsito, a través del siguiente video:
@@ -295,7 +295,7 @@
       .col-lg-4.col-4(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/30.png', alt='')
     .titulo-senal.d-inline-block.p-2.mb-5
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
-      h5.text-white.mb-0 Escáner topográfico
+      h3.ms-4.text-white.mb-0 Escáner topográfico
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6(data-aos="fade-right")
         p El escáner topográfico es un dispositivo con la capacidad de adquirir datos masivos en un lugar determinado desde un punto fijo, generando una nube de puntos de manera tridimensional, a partir de la medición de distancias y ángulos, mediante un rayo de luz.
@@ -305,7 +305,7 @@
       .col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/31.png', alt='')
     .titulo-senal.d-inline-block.p-2.mb-5
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
-      h5.text-white.mb-0 Estación total
+      h3.ms-4.text-white.mb-0 Estación total
     .row.justify-content-center.mb-5
       .col-lg-5.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/32.png', alt='')
       .col-lg-7
@@ -333,37 +333,42 @@
               i.fas.fa-check
               | La búsqueda de información de las personas se puede realizar en el RUNT verificando su historial y autorización vigente para conducir vehículos en Colombia, además de otras bases de datos a las que el investigador tenga acceso.
     p.mb-5(data-aos='fade-right') Ahora bien, el análisis del croquis o bosquejo topográfico requiere la utilización de herramientas digitales o #[em software] específicos para la reconstrucción de accidentes de tránsito que permitan pasar a escala el bosquejo y convertirlo en un plano topográfico que pueda ser utilizado para encontrar las escenas del accidente de tránsito (preliminar, reacciones múltiples, materialización del hecho y escena de posiciones finales).  A continuación, se presentan algunos de los programas consultados con mayor frecuencia para el desarrollo del análisis topográfico: 
-    SlyderF.slyder-100.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-contenido.p-4.h-100
+    SlyderF.slyder-100.mb-5(columnas="col-lg-6 col-xl-4").text-system
+      .tarjeta.color-acento-contenido.p-4.h-100.box-s
         .row.justify-content-center.mb-3
-          .col-8
+          .col-lg-6.col-4
             img(src='@/assets/curso/temas/tema1/33.png' alt='AvatarTop')
-        p.text-center #[em Software] MVD.  Sistema Simulador Universal de Accidentes de Tránsito SSUAT 
-        a.text-center(href="https://ssuat.com/" target='_blank') https://ssuat.com/
-      .tarjeta.color-acento-contenido.p-4.h-100
+        h4.text-center #[em Software] MVD.  Sistema Simulador Universal de Accidentes de Tránsito SSUAT 
+        .d-flex.justify-content-center
+          a.text-center(href="https://ssuat.com/" target='_blank') https://ssuat.com/
+      .tarjeta.color-acento-contenido.p-4.h-100.box-s
         .row.justify-content-center.mb-3
-          .col-8
+          .col-lg-6.col-4
             img(src='@/assets/curso/temas/tema1/34.png' alt='AvatarTop')
-        p.text-center #[em Software] AutoCAD 2D y 3D 
-        a.text-center(href="https://latinoamerica.autodesk.com/" target='_blank') https://latinoamerica.autodesk.com/
-      .tarjeta.color-acento-contenido.p-4.h-100
+        h4.text-center #[em Software] AutoCAD 2D y 3D
+        .d-flex.justify-content-center 
+          a.text-center(href="https://latinoamerica.autodesk.com/" target='_blank') https://latinoamerica.autodesk.com/
+      .tarjeta.color-acento-contenido.p-4.h-100.box-s
         .row.justify-content-center.mb-3
-          .col-8
+          .col-lg-6.col-4
             img(src='@/assets/curso/temas/tema1/35.png' alt='AvatarTop')
-        p.text-center #[em Software] Trimble Forensics Reveal
-        a.text-center(href="https://forensics.trimble.com/" target='_blank') https://forensics.trimble.com/
-      .tarjeta.color-acento-contenido.p-4.h-100
+        h4.text-center #[em Software] Trimble Forensics Reveal
+        .d-flex.justify-content-center
+          a.text-center(href="https://forensics.trimble.com/" target='_blank') https://forensics.trimble.com/
+      .tarjeta.color-acento-contenido.p-4.h-100.box-s
         .row.justify-content-center.mb-3
-          .col-8
+          .col-lg-6.col-4
             img(src='@/assets/curso/temas/tema1/36.png' alt='AvatarTop')
-        p.text-center FARO® Zone 3D 
-        a.text-center(href="https://www.faro.com/" target='_blank') https://www.faro.com/
-      .tarjeta.color-acento-contenido.p-4.h-100
+        h4.text-center FARO® Zone 3D
+        .d-flex.justify-content-center 
+          a.text-center(href="https://www.faro.com/" target='_blank') https://www.faro.com/
+      .tarjeta.color-acento-contenido.p-4.h-100.box-s
         .row.justify-content-center.mb-3
-          .col-8
+          .col-lg-6.col-4
             img(src='@/assets/curso/temas/tema1/37.png' alt='AvatarTop')
-        p.text-center #[em Software] ARAS 360 para la Reconstrucción Virtual de Accidentes de Tránsito y Escena de Crimen 
-        a.text-center(href="https://software.com.co/" target='_blank') https://docplayer.es/
+        h4.text-center #[em Software] ARAS 360 para la Reconstrucción Virtual de Accidentes de Tránsito y Escena de Crimen
+        .d-flex.justify-content-center 
+          a.text-center(href="https://software.com.co/" target='_blank') https://docplayer.es/
     p.mb-5(data-aos='fade-right') En cuanto al análisis de variables físicas aplicadas al hecho, componente importante del informe pericial, existen también herramientas tecnológicas que apoyan al investigador de accidentes de tránsito en dicha tarea, veamos algunas de ellas: 
     .row.justify-content-center.mb-5
       .col-lg-4
@@ -436,7 +441,7 @@
 
     .tarjeta(style="background-color: #FFF6E9").p-4
       .row.justify-content-center.mb-5
-        .col-lg-3
+        .col-lg-3.mb-lg-0.mb-3
           .tarjeta.color-secundario.p-4
             p.text-white Valor mínimo Coeficiente 0.68
               br

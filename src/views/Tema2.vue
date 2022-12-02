@@ -11,7 +11,7 @@
       br
       |Los servidores pueden ser llamados a brindar testimonio en cualquiera de los siguientes roles: 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/1.png', alt='') 
+      .col-lg-4.col-8.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/1.png', alt='') 
       .col-lg-8(data-aos="fade-left")
         LineaTiempoD.color-acento-contenido
           p.text-small(numero="1" titulo="Testigo de acreditación") Investigador que recogió o recibió el elemento material probatorio o la evidencia física que se pretende incorporar al juicio.
@@ -20,15 +20,15 @@
           p.text-small(numero="4" titulo="Testigo de referencia") Aplica en condiciones excepcionales.  En caso de que el declarante no pueda asistir por motivos insuperables (desaparición voluntaria o imposibilidad de localización), el investigador de policía judicial podrá ser requerido para ser escuchado en juicio como testigo de oídas o testigo indirecto.
           p.text-small(numero="5" titulo="Otros roles") Asesor, integrante de grupo de tareas especiales o solicitante de autorización previa de actuaciones ante juez de control de garantías con soporte a motivos fundados para control previo y posterior.
     .row.justify-content-center.mb-5
-      .col-lg-7(data-aos="fade-right")
+      .col-lg-7(data-aos="fade-right").mb-lg-0.mb-3
         .tarjeta.p-4(style="background-color: #fff6e9")
           p.mb-0 La sustentación del informe pericial requiere que el perito repase su dictamen y lo conozca por completo, ya que podrá recibir preguntas sobre equipos e instrumentos empleados, elementos materiales probatorios y evidencia física recibidos para estudio, principios, métodos y procedimientos técnicos utilizados para rendir el informe.
             br
             br
             |El perito debe prepararse en términos de oralidad y discurso para exponer de la forma más precisa sus actuaciones y sus conocimientos, apoyándose en herramientas tecnológicas que le permitan demostrar la veracidad de sus actuaciones.  Debe entender que será interrogado y contrainterrogado, por cualquiera de las partes que buscará hacerlo incurrir en un error para desacreditar su concepto ante el juez que estará observando sus actuaciones.
-      .col-lg-5.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema2/2.png', alt='')
+      .col-lg-5.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/tema2/2.png', alt='')
     .row.justify-content-center.mb-5
-      .col-lg-3.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/3.png', alt='')
+      .col-lg-3.col-8.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/3.png', alt='')
       .col-lg-9(data-aos="fade-left")
         p.mb-0 También es importante conocer la estructura del proceso penal y las actuaciones de quienes participan: el fiscal, la defensa, el ministerio público, el representante de las víctimas y el juez, quien tiene la decisión al final del proceso.
           br
@@ -38,21 +38,27 @@
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 5.
       span  Elementos metodológicos de las técnicas de oralidad.
-    ImagenInfografica.color-primario.mb-5
+    ImagenInfografica.color-primario.mb-5.text-system
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema2/4.png', alt='Texto que describa la imagen')
       .tarjeta.color-acento-contenido.p-3(x="18.7%" y="45.8%" numero="1")
+        h4 La lógica discursiva
         p Comprende la dialéctica del acontecimiento y el sentido como componentes necesarios de la oralidad. 
       .tarjeta.color-acento-contenido.p-3(x="18.7%" y="58.8%" numero="2")
+        h4 Forma de interpretación 
         p Que proporciona las formulaciones para efectuar la transición de un lenguaje de código, por ejemplo. La  grafoscopía, que tiene su propio lenguaje. 
       .tarjeta.color-acento-contenido.p-3(x="18.7%" y="71.7%" numero="3")
+        h4 Lógica de los jurídico 
         p Que es la determinación cualitativa de la consistencia del discurso oral.
       .tarjeta.color-acento-contenido.p-3(x="68.85%" y="45.7%" numero="4")
+        h4 Ingeniería jurídica en lo particular
         p Lo que hace posible distinguir y acotar el dominio al que se refiere el discurso jurídico en concreto. 
       .tarjeta.color-acento-contenido.p-3(x="68.85%" y="59.8%" numero="5")
+        h4 La unidad 
         p Que mediante un discurso eficiente exprese las relaciones comunes que tienen cumplimiento en la ingeniería de la oralidad judicial. 
       .tarjeta.color-acento-contenido.p-3(x="68.85%" y="73.8%" numero="6")
+        h4 La particularidad 
         p Que se creen en cada una de las materias (civil, penal, familiar, etcétera) las técnicas jurídicas especiales para cada una de ellas. 
     p.mb-5(data-aos='fade-right') La técnica expositiva en la oralidad se cimienta, además, según el autor, en seis postulados que le otorgan certidumbre: 
     .row.justify-content-center.mb-5
