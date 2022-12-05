@@ -14,7 +14,7 @@
         p.mb-0 Una cordial bienvenida a este momento de aprendizaje dedicado al análisis de los parámetros metodológicos para la realización de un informe de investigación analítica y pericial de accidentes de tránsito, comúnmente conocido como reconstrucción de accidentes de tránsito.  Iniciemos revisando el siguiente video introductorio a la temática:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/yeioz-h-WIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
 </template>
 

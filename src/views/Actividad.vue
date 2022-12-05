@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Principios de criminalística
-        p.mb-4 #[b Objetivo] Identificar los principios de la criminalística como la base para la investigación y reconstrucción de accidentes de tránsito.
+        p.mb-4  Identificar los principios de la criminalística como la base para la investigación y reconstrucción de accidentes de tránsito.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
@@ -28,7 +28,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Hipótesis de accidentes de tránsito
-        p.mb-4 #[b Objetivo] Identificar hipótesis de accidentes de tránsito y sus factores asociados, como parte fundamental del proceso de investigación y reconstrucción de accidentes de tránsito.
+        p.mb-4  Identificar hipótesis de accidentes de tránsito y sus factores asociados, como parte fundamental del proceso de investigación y reconstrucción de accidentes de tránsito.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

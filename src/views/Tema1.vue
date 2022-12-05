@@ -205,7 +205,7 @@
     p.mb-5(data-aos='fade-right') Avancemos ahora con la etapa de medición, donde se establecen las variables y se ejecutan los modelos físicos y las ciencias aplicadas, para descartar o reforzar las hipótesis: 
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
-        .row.px-4.justify-content-center
+        .row.px-lg-4.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 Descripción de variables
             p En coherencia con los objetivos definidos en la formulación de la investigación, ya que las variables pueden ser múltiples y sin objetivos claros, se puede incurrir en errores investigativos como razonamientos sobre eventos insignificantes.  
@@ -233,14 +233,14 @@
           .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/23.png', alt='Texto que describa la imagen')
-        .row.px-4.justify-content-center
+        .row.px-lg-4.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 Medición de variables 
             p Interpretación de modelos físicos y matemáticos para medir los fenómenos presentados.  Los datos que se miden deben concordar con las variables establecidas en la formulación de la investigación, que se estimaron en la descripción de variables.  Los investigadores deben sustentar las técnicas, teorías y postulados aplicados a las variables sometidas a medición e indicar los procedimientos y modelos aplicables, con su estimación bibliográfica.
           .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/24.png', alt='Texto que describa la imagen')
-        .row.px-4.justify-content-center
+        .row.px-lg-4.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 Contraste de hipótesis    
             p Consecuente con la medición de las variables, la exposición de datos fiables y análisis practicados a los elementos materiales probatorios (EMP) y evidencia física (EF), se entrar a controvertir las hipótesis depurando las que guiarán la teoría del caso.
@@ -251,28 +251,28 @@
     p.mb-5(data-aos='fade-right') Y finalmente, la etapa de conclusión y propuestas, de relevancia para la presentación de la teoría que concluye el caso: 
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
-        .row.px-4.justify-content-center
+        .row.px-lg-4.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 Dinámica del accidente
             p Descripción de los hechos que puede acompañarse de la retrospectiva del accidente de tránsito. 
           .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/26.png', alt='Texto que describa la imagen')
-        .row.px-4.justify-content-center
+        .row.px-lg-4.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 Retrospectiva del accidente
             p A partir de las evidencias, encontrar las escenas previas al accidente de tránsito desde la posición final con la materialización del hecho, evidenciando la forma de impacto y el lugar de la colisión, retrocediendo a la escena de reacciones múltiples y seguidamente hasta la escena preliminar donde se establecerán los puntos de percepción del accidente.
           .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/27.png', alt='Texto que describa la imagen')
-        .row.px-4.justify-content-center
+        .row.px-lg-4.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 Construcción de la teoría del caso
             p El método científico exige plantearse una teoría del accidente de tránsito con base en el análisis robusto y detallado de todo el caso donde las hipótesis fueron confirmadas enunciando el factor contribuyente y determinante del hecho, siendo la teoría del caso la que reúne todas las conclusiones que el perito ha desarrollado durante el proceso investigativo.
           .col-lg-7.col-9
             figure
               img(src='@/assets/curso/temas/tema1/28.png', alt='Texto que describa la imagen')
-        .row.px-4.justify-content-center
+        .row.px-lg-4.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 Prospectiva del accidente
             p Cada investigación genera un nuevo conocimiento y todo conocimiento debe ser aprovechado para solucionar problemas por lo cual esta etapa es en la que el investigador propone una solución para que estos hechos no vuelvan a presentarse.
@@ -282,17 +282,17 @@
     p.mb-5(data-aos='fade-right') Refuerce su apropiación de la metodología para la investigación de accidentes de tránsito, a través del siguiente video:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/fnUSlZgZ3aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.2  Herramientas digitales para la reconstrucción de accidentes 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8(data-aos="fade-right").mb-lg-0.mb-3
         p El campo de la investigación de accidentes de tránsito, cuenta actualmente con herramientas de gran precisión que permiten agilizar los procesos de registro de datos, maximizar la información proporcionada y obtener resultados que aportan una representación cada vez más fiel a la criminalística. Sin embargo, no toda la tecnología de avanzada para diferentes áreas, es apropiada para llevar a cabo procedimientos de policía judicial en accidentes viales.  Es necesario analizar su pertinencia en consideración a las condiciones a las que se enfrentan las autoridades a la hora de atender un accidente de tránsito y el costo beneficio que las herramientas tecnológicas ofrecen.  
           br
           br
           |El desarrollo vertiginoso de la investigación de accidentes de tránsito, impulsado por las técnicas de última generación que en Colombia adopta la Escuela de Seguridad vial, toma un rumbo diferente cuando su reconstrucción hace uso de herramientas como la estación total, los equipos de GPS y el escáner topográfico, recientemente incorporado en la labor investigativa. 
-      .col-lg-4.col-4(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/30.png', alt='')
+      .col-lg-4.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/30.png', alt='')
     .titulo-senal.d-inline-block.p-2.mb-5
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
       h3.ms-4.text-white.mb-0 Escáner topográfico
@@ -302,12 +302,12 @@
           br
           br
           |El escáner topográfico tiene la capacidad de realizar observaciones masivas sobre áreas preseleccionadas, y cuenta con cámaras fotográficas para el registro de información dentro de su rango de visibilidad, lo que se traduce en una información basta del objeto, que lleva a un #[em software] específico donde se representa mediante un modelo tridimensional.  
-      .col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/31.png', alt='')
+      .col-lg-6.col-12(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/31.png', alt='')
     .titulo-senal.d-inline-block.p-2.mb-5
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
       h3.ms-4.text-white.mb-0 Estación total
     .row.justify-content-center.mb-5
-      .col-lg-5.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/32.png', alt='')
+      .col-lg-5.col-8.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/32.png', alt='')
       .col-lg-7
         .tarjeta.p-4(style="background-color: #FFF6E9 ")
           p.mb-0 La estación total es un instrumento electro-óptico utilizado en topografía, cuyo funcionamiento apoyado en tecnología electrónica, consiste en la incorporación de un distanciómetro y un microprocesador a un teodolito electrónico, para obtener ángulos verticales y, en el mayor de los casos, horizontales. 
