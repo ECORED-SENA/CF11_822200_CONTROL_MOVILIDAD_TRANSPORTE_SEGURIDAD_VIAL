@@ -152,19 +152,19 @@ export default {
   glosario: [
     {
       termino: 'CPP',
-      significado: 'Código de procedimiento penal.      ',
+      significado: 'Código de Procedimiento P enal.      ',
     },
     {
       termino: 'EMP Y EF',
-      significado: 'Elementos materiales probatorios y evidencia física. ',
+      significado: 'Elementos Materiales Probatorios y Evidencia Física. ',
     },
     {
       termino: 'FPJ',
-      significado: 'Formato de policía judicial.',
+      significado: 'Formato de Policía Judicial.',
     },
     {
       termino: 'FGN',
-      significado: 'Fiscalía general de la nación. ',
+      significado: 'Fiscalía General de la Nación. ',
     },
     {
       termino: 'Indiciado',
@@ -183,19 +183,19 @@ export default {
     },
     {
       termino: 'IPAT',
-      significado: 'Informe policial de accidente de tránsito.',
+      significado: 'Informe Policial de Accidente de Tránsito.',
     },
     {
       termino: 'RNAT',
-      significado: 'Registro nacional de accidentes de tránsito.',
+      significado: 'Registro Nacional de Accidentes de Tránsito.',
     },
     {
       termino: 'SPOA',
-      significado: 'Sistema penal oral acusatorio.',
+      significado: 'Sistema Penal Oral Acusatorio.',
     },
     {
       termino: 'SSUAT',
-      significado: 'Sistema simulador universal de accidentes de tránsito. ',
+      significado: 'Sistema Simulador Universal de Accidentes de Tránsito. ',
     },
   ],
   referencias: [

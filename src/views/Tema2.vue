@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Sustentación del informe pericial
-    p.mb-5(data-aos='fade-right') En un proceso de investigación de accidente de tránsito con personas lesionadas o fallecidas, es de vital importancia reconocer que el sistema penal oral acusatorio SPOA, requiere que los funcionarios de la policía judicial rindan sus declaraciones y sustentaciones de las actuaciones realizadas en las diferentes audiencias preliminares o de juicio oral, dependiendo de la necesidad del fiscal de cada caso, quien notificará previamente de su asistencia a ratificación y preparará al testigo para dicho evento de sustentación con el fin de dar respaldo probatorio a motivos fundados.
+    p.mb-5(data-aos='fade-right') En un proceso de investigación de accidente de tránsito con personas lesionadas o fallecidas, es de vital importancia reconocer que el Sistema Penal Oral Acusatorio SPOA, requiere que los funcionarios de la policía judicial rindan sus declaraciones y sustentaciones de las actuaciones realizadas en las diferentes audiencias preliminares o de juicio oral, dependiendo de la necesidad del fiscal de cada caso, quien notificará previamente de su asistencia a ratificación y preparará al testigo para dicho evento de sustentación con el fin de dar respaldo probatorio a motivos fundados.
       br
       br
       |Los servidores pueden ser llamados a brindar testimonio en cualquiera de los siguientes roles: 
@@ -49,7 +49,7 @@
         h4 Forma de interpretación 
         p Que proporciona las formulaciones para efectuar la transición de un lenguaje de código, por ejemplo. La  grafoscopía, que tiene su propio lenguaje. 
       .tarjeta.color-acento-contenido.p-3(x="18.7%" y="71.7%" numero="3")
-        h4 Lógica de los jurídico 
+        h4 Lógica de lo jurídico 
         p Que es la determinación cualitativa de la consistencia del discurso oral.
       .tarjeta.color-acento-contenido.p-3(x="68.85%" y="45.7%" numero="4")
         h4 Ingeniería jurídica en lo particular

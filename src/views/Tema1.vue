@@ -197,7 +197,7 @@
                     | #[b [Min Transporte] Resolución 11268 de 2012]
                     br
                     br
-                    | Por la cual se adopta el nuevo informe Policial de Accidentes de Transito (IPAT), su manual de diligenciamiento y se dictan otras disposiciones. urgencias  
+                    | Por la cual se adopta el nuevo informe Policial de Accidentes de Tránsito (IPAT), su manual de diligenciamiento y se dictan otras disposiciones, urgencias  
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/resolucion.pdf')" target="_blank")
                     span Descargar
@@ -321,7 +321,7 @@
           ul.lista-ul--color
             li
               i.fas.fa-check
-              | La pericia debe realizarse en un computador utilizando herramientas digitales de Microsoft como Word planteando allí la estructura metodológica con títulos de 1er 2do y 3er nivel que sean necesarios.  Una vez definida la metodología del dictamen, deberá revisarse la información recolectada que deberá someterse a análisis considerando las variables del accidente: la vía, los vehículos y las personas involucradas en el siniestro vial.
+              | La pericia debe realizarse en un computador utilizando herramientas digitales de Microsoft como Word planteando allí la estructura metodológica con títulos de 1er,  2do y 3er nivel que sean necesarios.  Una vez definida la metodología del dictamen, deberá revisarse la información recolectada que deberá someterse a análisis considerando las variables del accidente: la vía, los vehículos y las personas involucradas en el siniestro vial.
             li
               i.fas.fa-check
               | Para recolectar y analizar información de la vía, resultan útiles plataformas como Google Maps o Google Earth para la georeferenciación del lugar del accidente de tránsito.  Importante también la revisión de cifras de siniestralidad que se pueden consultar en el observatorio nacional de seguridad vial verificando en el geo-portal los puntos críticos según la jurisdicción.
