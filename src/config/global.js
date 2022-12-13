@@ -152,7 +152,7 @@ export default {
   glosario: [
     {
       termino: 'CPP',
-      significado: 'Código de Procedimiento P enal.      ',
+      significado: 'Código de Procedimiento Penal.      ',
     },
     {
       termino: 'EMP Y EF',
